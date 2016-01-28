@@ -1,3 +1,5 @@
 # Accounting
+This is Accounting version 0.0.0
+====================================
 
-This is the Readme! file.
+Copyright (c) 2016 SE II.  All rights reserved.
